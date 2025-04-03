@@ -1,5 +1,8 @@
 # PowerBi_Blinkit-Sales-Analysis
-This project focuses on analyzing blinkit sales data using Power BI. The dashboard provides insights into key performance indicators (KPIs) and visualizes various sales metrics, helping businesses make data-driven decisions.
+This project focuses on analyzing blinkit sales data basis Fat content using Power BI. The dashboard provides insights into key performance indicators (KPIs) and visualizes various sales metrics, helping businesses make data-driven decisions.
+
+![image](https://github.com/user-attachments/assets/fd3a9f90-a753-42c2-86a2-fd0a0819bd8b)
+
 
 # Objectives
 
