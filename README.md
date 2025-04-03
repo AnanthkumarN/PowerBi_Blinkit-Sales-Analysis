@@ -32,13 +32,13 @@ The primary objectives of this dashboard are:
 
 **Visual Representation** – Multiple chart types for intuitive understanding.
 
-Dataset Details
+# Dataset Details
 
-Sales Data – Contains transaction records, including item details, outlet information, sales amount, and other KPIs.
+**Sales Data** – Contains transaction records, including item details, outlet information, sales amount, and other KPIs.
 
-Outlet Information – Provides metadata about different sales locations.
+**Outlet Information** – Provides metadata about different sales locations.
 
-Item Attributes – Contains product details such as type and fat content.
+**Item Attributes** – Contains product details such as type and fat content.
 
 # Usage
 
